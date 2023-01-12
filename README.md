@@ -26,4 +26,19 @@ It is necessary to develop a (console/desktop) application for the sale of phone
 * You should also add exception handlers and data validation.
 
 ### Screenshots of the application
+
 main screen
+
+![main_screen](screenshots/login_scr.png)
+
+register page
+
+![register](screenshots/register.png)
+
+user page
+
+![user page](screenshots/user_page.png)
+
+phone page
+
+![phone page](screenshots/phone_page.png)
