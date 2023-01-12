@@ -93,6 +93,7 @@ CREATE TABLE IF NOT EXISTS phone
   ram integer NOT NULL
 );
 ```
+* Go to the folder with the downloaded repositories and run the `phone_sale.py` file in the terminal with the command `python phone_sale.py` or in your favorite IDE.
 
 ### Screenshots of the application
 
