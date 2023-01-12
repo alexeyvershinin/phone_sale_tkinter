@@ -99,16 +99,16 @@ CREATE TABLE IF NOT EXISTS phone
 
 main screen
 
-![main_screen](screenshots/login_scr.png)
+<img width="600" src="screenshots/login_scr.png">
 
 register page
 
-![register](screenshots/register.png)
+<img width="600" src="screenshots/register.png">
 
 user page
 
-![user page](screenshots/user_page.png)
+<img width="600" src="screenshots/user_page.png">
 
 phone page
 
-![phone page](screenshots/phone_page.png)
+<img width="600" src="screenshots/phone_page.png">
