@@ -26,3 +26,4 @@ It is necessary to develop a (console/desktop) application for the sale of phone
 * You should also add exception handlers and data validation.
 
 ### Screenshots of the application
+main screen
