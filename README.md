@@ -7,9 +7,9 @@ It is necessary to develop a (console/desktop) application for the sale of phone
 
 * The system must have the following roles: administrator and store visitor. To interact with the tables of users and phones, you can create separate modules. 
 
-* Users have a footprint. attributes: full name, login, password, role, logical deletion (exist, with data type bool).
+* Users must have attributes: full name, login, password, role, logical deletion (exist, with data type bool).
 
-* Phones have a footprint. attributes: name, number of memory, number of RAM, processor.
+* Phones must have attributes: name, number of memory, number of RAM, processor.
 
 * When the application starts, a menu with a choice of actions should be displayed: 1 – log in, 2 – register
 
